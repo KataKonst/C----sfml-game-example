@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1401087784 source:d:\programare\opengl\met\sfml\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+	"glont.hpp"
+	"nava.hpp"
+	"Dusman.hpp"
+	<stdio.h>
+	<time.h>
+	<stack>
+	"Particle.hpp"
+	"Dfire.hpp"
+	<string.h>
+
+1401087806 d:\programare\opengl\met\sfml\glont.hpp
+	<iostream>
+	"Dusman.hpp"
+	<SFML/Graphics.hpp>
+	"nava.hpp"
+
+1401126593 d:\programare\opengl\met\sfml\nava.hpp
+	<SFML/Graphics.hpp>
+
+1401087800 d:\programare\opengl\met\sfml\dusman.hpp
+	"Particle.hpp"
+	<SFML/Graphics.hpp>
+
+1400985343 d:\programare\opengl\met\sfml\particle.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+	<Math.h>
+
+1401087792 d:\programare\opengl\met\sfml\dfire.hpp
+
+1401051784 source:d:\programare\opengl\met\sfml\c----sfml-game-example\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+	"glont.hpp"
+	"nava.hpp"
+	"Dusman.hpp"
+	<stdio.h>
+	<time.h>
+	<stack>
+	"Particle.hpp"
+	"Dfire.hpp"
+	<string.h>
+
+1401051806 d:\programare\opengl\met\sfml\c----sfml-game-example\glont.hpp
+	<iostream>
+	"Dusman.hpp"
+	<SFML/Graphics.hpp>
+	"nava.hpp"
+
+1401051800 d:\programare\opengl\met\sfml\c----sfml-game-example\dusman.hpp
+	"Particle.hpp"
+	<SFML/Graphics.hpp>
+
+1400949343 d:\programare\opengl\met\sfml\c----sfml-game-example\particle.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+	<Math.h>
+
+1401090593 d:\programare\opengl\met\sfml\c----sfml-game-example\nava.hpp
+	<SFML/Graphics.hpp>
+
+1401051792 d:\programare\opengl\met\sfml\c----sfml-game-example\dfire.hpp
+
